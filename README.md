@@ -1,0 +1,2 @@
+# seaofhymn
+基于scrapyd部署的boss直聘爬虫，使用随机user-agent和adsl代理ip反爬，单核服务器1M带宽一天5w左右，保存数据到MongoDB下
